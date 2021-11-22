@@ -55,7 +55,7 @@ The number of classes correctly classified and the number of classes misclassifi
 
 ## Run 
 
-In order to run the Resnet50 model run the ImageClassificationwithCNN.ipynb file
+In order to run the Resnet50 model run the [ImageClassificationwithCNN.ipynb](ImageClassificationwithCNN) file
 
 
 
