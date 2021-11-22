@@ -56,7 +56,7 @@ The number of classes correctly classified and the number of classes misclassifi
 ## Run 
 
 1. In order to run the Resnet50 model run the [ImageClassificationwithCNN.ipynb](https://github.com/x-Surreal/Image-Classification-with-CNN/blob/main/ImageClassificationwithCNN.ipynb) file
-2. I have used the `opendatasets` python library from Kaggle to download the dataset. You need to sign in to [Kaggle](https://kaggle.com/). Create an API token which 
+2. I have used the `opendatasets` python library from Kaggle to download the dataset. You need to sign in to [Kaggle](https://kaggle.com/). Create an API token (you can find it in your profile) which downloads a `kaggle.json` file and when you run `opendatsets.download` you can then input your username and your Kaggle API from the downloadeded file
 
 
 
